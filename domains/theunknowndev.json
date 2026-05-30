@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "TheUnkownDev",
+    "username": "TheUnkowndev",
     "email": "zerobloatofficial@gmail.com"
   },
-  "record": {
-    "URL": "https://github.com/TheUnkownDev/J.A.R.V.I.S.-AI-Assistant"
+  "records": {
+    "CNAME": "TheUnkowndev.github.io"
   }
 }
